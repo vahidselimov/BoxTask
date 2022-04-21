@@ -1,0 +1,14 @@
+body{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    margin: 200px;
+    background-color: aqua;
+    padding: 10px;
+   border: 10px solid red;
+}
